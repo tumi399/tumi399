@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**tumi399/tumi399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I am an Information Technology student based in Ho Chi Minh City, Vietnam.  
+I am currently focusing on data analysis and machine learning.
 
-Here are some ideas to get you started:
+## 💡 Skills
+- Programming: Python  
+- Data Analysis: NumPy, Pandas  
+- Machine Learning: Regression models, model evaluation  
+- Problem Solving & Logical Thinking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Focus
+- Improving my understanding of machine learning algorithms  
+- Practicing data analysis techniques  
+- Strengthening my programming skills  
+
+## 🌱 Goals
+- Become better at data science and AI  
+- Build a strong foundation in machine learning  
